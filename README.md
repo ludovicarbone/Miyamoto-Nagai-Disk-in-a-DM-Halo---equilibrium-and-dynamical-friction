@@ -6,6 +6,7 @@ This project investigates a system consisting of a Miyamoto-Nagai disk embedded 
 - Initializing the disk's spatial coordinates using MCMC methods (position_generation_MCMC.ipynb);
 - Assigning velocities based on the theoretical model and constraints (Initialization_system.ipynb);
 - Analyzing the equilibrium state and the effects of perturbers with varying masses (Visualization_and_Analysis.ipynb).
+- Initializing and analizing two perfturbers with varying masses on eccentric orbits ('eccentric' files)
 
 ## Simulation Files
 Due to size constraints, the full simulation data files are not included in this repository. However, you can access them via this [Google Drive folder](https://drive.google.com/drive/folders/1HyY4uvtq2BRBCbJIa6yHzu842k-u3KG8?usp=sharing).
